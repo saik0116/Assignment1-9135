@@ -1,0 +1,101 @@
+*{
+    background-color: #333;
+}
+
+.nav-menu{
+    width: 95%;
+}
+
+
+.nav-menu li{
+    color: red;
+    display: inline-block;
+    text-align: center;
+    font-size: 35px;
+    width: 47.5%;
+    
+    
+    
+}
+.nav-menu a {
+    color:#bb9;
+   
+}
+
+.nav-menu a:hover{
+    color: azure;
+}
+
+.foodItems{
+    
+    width: 400px;
+    margin: auto;
+    margin-top: 100px;
+    text-decoration: none;
+    list-style-type: none;
+    
+}
+
+.foodItems a{
+    text-decoration: none;
+    display: inline-block;
+    text-align: center;
+    font-size: 25px;
+    color:cadetblue;
+    width: 100%;
+    margin: auto;
+    
+   
+}
+form{
+    text-align: center;
+    margin-top: 120px;
+    
+}
+
+form input{
+    font-size: 28px;
+    display: block;
+    margin: auto;
+    margin-bottom: 20px;
+    background-color: black;
+    color: aliceblue;
+}
+
+button{
+    font-size: 28px;
+/*    margin-left: 20px;*/
+    background-color: black;
+    color: aliceblue;
+}
+button:hover{
+    background-color: white;
+    color: black;
+}
+
+.price{
+    color: aliceblue;
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 7px;
+}
+.itemz {
+    text-decoration: none;
+    display: inline-block;
+    text-align: center;
+    font-size: 25px;
+    color:cadetblue;
+    width: 100%;
+    margin: auto;
+    margin-top: 50px;
+}
+
+.itemz1{
+    color: aliceblue;
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 7px;
+}
+
+
+
